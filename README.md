@@ -1,1 +1,2 @@
 # News
+Simple news app
